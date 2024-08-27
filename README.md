@@ -1,8 +1,8 @@
-# Raydium Pairs Volume Bot
+# Volume Bot for token pair on Raydium
 
-This bot is designed to automate the distribution of SOL to multiple wallets and execute endless buy and sell swap transactions simultaneously on the Raydium platform. It leverages Solana's blockchain technology to perform these operations efficiently.
+This bot is designed to automate the distribution of SOL to multiple wallets and execute endless buy and sell swap transactions simultaneously on the Raydium platform. It leverages Solana's technology to perform these operations efficiently.
 
-## This product is trying to show the basic functions of volume bot, and not suitable for big live tokens. So, if you want better version, you can refer to version 2 in my github.
+## This product is trying to show the basic functions of volume bot, and not suitable for big live tokens. You can contact me if you want a better product.
 
 ## Features
 
@@ -62,8 +62,8 @@ LOG_LEVEL=info               # Logging level (info, debug, error)
 ## Usage
 1. Clone the repository
 ```
-git clone https://github.com/rabnail/volume-bot_raydium.git
-cd volume-bot_raydium
+git clone https://github.com/m8s-lab/solana-volume-bot-raydium.git
+cd solana-volume-bot-raydium
 ```
 2. Install dependencies
 ```
@@ -78,16 +78,6 @@ Rename the .env.copy file to .env and set RPC and WSS, main keypair's secret key
 ```
 npm start
 ```
-
-
-## Author
-
-
-
-Twitter: [@Lamoerey](https://twitter.com/Lamoerey)
-
-
-Telegram: [@Lamoerey](https://t.me/Lamoerey)
 
 
 You can always find me here, for help, or for other projects.
